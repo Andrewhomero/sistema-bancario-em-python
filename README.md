@@ -28,13 +28,17 @@ Funcionalidades como criação de contas, transações e segurança.
       <td>01</td>
       <td>Operações: depositar, sacar e visualizar extratos</td>
     </tr>
+    <tr>
+      <td>02</td>
+      <td>Novas funções: nova conta, listar contas, novo usuário</td>
+    </tr>
   </tbody>
 </table>
 
 ---
 ## Desafio de Projeto da DIO
 Dominando o universo do desenvolvimento Python e projeto "Criando um Sistema Bancário com Python" oferece uma experiência prática de desenvolvimento de software financeiro, abordando funcionalidades como criação de contas, transações e segurança. Oportunidade para aprimorar habilidades de programação Python e compreender conceitos financeiros e de segurança.
-
+O sistema foi atualizado com novas funcionalidades como a criação de nova conta, listagem das contas cadastradas e a criação de novo usuário.
 
 
 ##
